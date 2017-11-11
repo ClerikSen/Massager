@@ -1,0 +1,1 @@
+C:\Users\Fento_000\AppData\Local\Android\sdk\platform-tools\adb.exe install -r "VMassage.apk"
